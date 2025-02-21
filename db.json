@@ -1,25 +1,46 @@
 {
   "users": [
-    { "id": "123", "name": "Paolo", "age": 25, "dateOfBirth": "1995-01-01" },
-    { "id": "456", "name": "John", "age": 30, "dateOfBirth": "1990-01-01" },
-    { "id": "789", "name": "Jane", "age": 35, "dateOfBirth": "1985-01-01" },
+    {
+      "id": "123",
+      "name": "Paolo",
+      "age": 25,
+      "dateOfBirth": "1995-01-01",
+      "profile": { "nickname": "test01" }
+    },
+    {
+      "id": "456",
+      "name": "John",
+      "age": 30,
+      "dateOfBirth": "1990-01-01",
+      "profile": { "nickname": "test02" }
+    },
+    {
+      "id": "789",
+      "name": "Jane",
+      "age": 35,
+      "dateOfBirth": "1985-01-01",
+      "profile": { "nickname": "test03" }
+    },
     {
       "id": "124",
       "name": "Pal",
       "age": 22,
-      "dateOfBirth": "2011-12-28 23:55:59.342380"
+      "dateOfBirth": "2011-12-28 23:55:59.342380",
+      "profile": { "nickname": "test04" }
     },
     {
       "id": "457",
       "name": "Joh",
       "age": 33,
-      "dateOfBirth": "2011-12-28 23:55:59.342380"
+      "dateOfBirth": "2011-12-28 23:55:59.342380",
+      "profile": { "nickname": "test05" }
     },
     {
       "id": "790",
       "name": "Jan",
       "age": 38,
-      "dateOfBirth": "2011-08-12T20:17:46.384Z"
+      "dateOfBirth": "2011-08-12T20:17:46.384Z",
+      "profile": { "nickname": "test06" }
     }
   ]
 }
