@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": "123", "name": "Paolo", "age": 25, "dateOfBirth": "1995-01-01" },
+    { "id": "456", "name": "John", "age": 30, "dateOfBirth": "1990-01-01" },
+    { "id": "789", "name": "Jane", "age": 35, "dateOfBirth": "1985-01-01" }
+  ]
+}
